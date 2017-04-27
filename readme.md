@@ -1,12 +1,12 @@
 # gongz3
 ## qqqqq
 > q
-* one
-* tow
+- one
+- tow
 - three
-1. hehe
-2. hehe
-3. hehe
+1 hehe
+2 hehe
+3 hehe
 
 ###### code
 	while true:
@@ -16,5 +16,5 @@
 
 ***
 
-** chu **
-* xie *
+**chu**
+*xie*
